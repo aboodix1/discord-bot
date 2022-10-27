@@ -1,0 +1,9 @@
+{
+    "name": "Gangster",
+    "prefix": "!",
+    "playing": "With Your Mom",
+    "defaultVolume": 50,
+    "autoLeave": true,
+    "displayVoiceState": true,
+    "port": 33333
+}
